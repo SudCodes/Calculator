@@ -18,4 +18,7 @@ public class calcutator{
 	public static int add(int a, int b){
 	return a+b;
 }
+	puclic static int sub(int a, int b){
+	return a-b;
+}
 }
